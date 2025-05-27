@@ -1,0 +1,8 @@
+gradio
+PyPDF2
+langchain
+openai
+transformers
+torch
+sentence-transformers
+chromadb
