@@ -1,0 +1,8 @@
+venv/
+my_env/
+*.pyc
+__pycache__/
+.env
+*.log
+.DS_Store
+flagged/
